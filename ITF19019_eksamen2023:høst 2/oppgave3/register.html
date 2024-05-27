@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Staff Register</title>
+    <link href="style.css" rel="stylesheet" media="screen" />
+</head>
+
+<body>
+    <header>
+        <h1>Staff Register</h1>
+    </header>
+
+    <main>
+        <section id="list">
+            <nav id="filter">
+                <p>Filter on position:</p>
+                <ul id="positionFilter">
+                    <li><button class="all active">All positions</button></li>
+                </ul>
+            </nav>
+
+            <h2 id="listHeader">Showing all Staff</h2>
+
+            <div id="staffList"></div>
+        </section>
+
+        <section id="admin">
+            <!-- huske at dt er skjema for å legge til ansatte  -->
+            <div class="form">
+                <h2>Add Staff</h2>
+
+                <p>
+                    <label for="firstname">First Name</label>
+                    <input type="text" name="firstname" id="firstname" placeholder="First Name" />
+                </p>
+
+                <p>
+                    <label for="lastname">Last Name</label>
+                    <input type="text" name="lastname" id="lastname" placeholder="Last Name" />
+                </p>
+
+                <p>
+                    <label for="position">Position</label>
+                    <select id="position" name="position">
+                        <!-- Dynamiske stillingsalternativer vil bli lagt til her -->
+                    </select>
+                </p>
+
+                <p>
+                    <label for="department">Department</label>
+                    <select id="department" name="department">
+                        <!-- Dynamiske avdelingsalternativer vil bli lagt til her -->
+                    </select>
+                </p>
+
+                <p>
+                    <label for="email">Email Address</label>
+                    <input type="email" name="email" id="email" placeholder="you@email.com" />
+                </p>
+                <button id="saveStaff" onclick="saveStaff()">Save staff member</button>
+            </div>
+
+            <!-- Skjema for å legge til stilling -->
+            <div class="form">
+                <h2>Add Position</h2>
+
+                <p>
+                    <label for="newPosition">Position</label>
+                    <input type="text" name="newPosition" id="newPosition" placeholder="Position" />
+                </p>
+
+                <button id="savePosition" onclick="savePosition()">Save New Position</button>
+            </div>
+
+            <!-- Skjema for å legge til avdeling -->
+            <div class="form">
+                <h2>Add Department</h2>
+
+                <p>
+                    <label for="newDepartment">Department</label>
+                    <input type="text" name="newDepartment" id="newDepartment" placeholder="Department" />
+                </p>
+
+                <button id="saveDepartment" onclick="saveDepartment()">Save New Department</button>
+            </div>
+        </section>
+    </main>
+
+
+
+
+
+
+
+    <script>
+        // Eksisterende data for ansatte, stillinger og avdelinger
+        let staff = [
+            { firstname: "Bill", lastname: "Gates", position: "Director", department: "Administration", email: "bill@gates.net" },
+        ];
+
+        let positions = ["Director", "Team Leader", "Producer", "Engineer", "Designer"];
+        let departments = ["Administration", "Human Resources", "Production", "Finance"];
+
+        departments.sort();
+        positions.sort();
+
+        // Funksjon for å generere HTML for hver ansatt
+        function generateStaffHTML(member) {
+            return `
+                <article class="membercard" id="staffmember-${staff.indexOf(member)}">
+                    <h3>${member.lastname}, ${member.firstname}</h3>
+                    <p class="metainfo">
+                        <img src="posicon.png" alt="Position: "> ${member.position}
+                        <img src="depicon.png" alt="Department: "> ${member.department}
+                    </p>
+                    <p><a href="mailto:${member.email}"><img src="mailicon.png"> Send email to ${member.firstname}</a></p>
+                </article>
+            `;
+        }
+
+
+
+        // Funksjon for å adde ny ansatte i HTML
+        function addStaffHtml() {
+            const staffListContainer = document.getElementById('staffList');
+            staffListContainer.innerHTML = ''; // Tøm eksisterende innhold
+
+            // Sorter ansatte alfabetisk fra a til z på etter navnet 
+            staff.sort((a, b) => a.lastname.localeCompare(b.lastname));
+
+            staffListContainer.innerHTML = staff.map(generateStaffHTML).join('');
+
+            // Oppdatere position dropdownen i skjemaet 
+            const positionSelect = document.getElementById('position');
+            positionSelect.innerHTML = ''; // Tøm dropdown
+
+            positions.forEach(position => {
+                const option = document.createElement('option');
+                option.value = position;
+                option.textContent = position;
+                positionSelect.appendChild(option);
+            });
+
+            // Oppdater department dropdownen i skjemaet 
+            const departmentSelect = document.getElementById('department');
+            departmentSelect.innerHTML = ''; // Tøm dropdown
+
+            departments.forEach(department => {
+                const option = document.createElement('option');
+                option.value = department;
+                option.textContent = department;
+                departmentSelect.appendChild(option);
+            });
+        }
+
+        // Sorterer og oppdaterer position dropdownen
+        function updatePositionDropdown() {
+            const positionSelect = document.getElementById('position');
+            positionSelect.innerHTML = ''; // Tøm dropdowner 
+            positions.sort().forEach(position => {
+                const option = document.createElement('option');
+                option.value = position;
+                option.textContent = position;
+                positionSelect.appendChild(option);
+            });
+        }
+
+        // Sorterer og oppdaterer department dropdownen
+        function updateDepartmentDropdown() {
+            const departmentSelect = document.getElementById('department');
+            departmentSelect.innerHTML = ''; // Tømer dropdown
+            departments.sort().forEach(department => {
+                const option = document.createElement('option');
+                option.value = department;
+                option.textContent = department;
+                departmentSelect.appendChild(option);
+            });
+        }
+
+        // Funksjon for å lagre en ny ansatt
+        function saveStaff() {
+            const firstname = document.getElementById('firstname').value;
+            const lastname = document.getElementById('lastname').value;
+            const position = document.getElementById('position').value;
+            const department = document.getElementById('department').value;
+            const email = document.getElementById('email').value;
+            
+            // for å sikre alle alle feltene fylles for å kunne legge til ny ansatt, 
+            // tok ikke med position og department fordi de må fylles uansett 
+            if (firstname.trim() === '' || lastname.trim() === '' || email.trim() === '') {
+                alert('please fill in all the fields');
+                rn; // Avslutt funksjonen hvis ikke alle påkrevde felt er fylt ut
+            }
+            
+
+            const newMember = { firstname, lastname, position, department, email };
+            staff.push(newMember);
+
+            addStaffHtml();
+
+            // Tøme input feltene etter å ha skrevt i dem
+            document.getElementById('firstname').value = '';
+            document.getElementById('lastname').value = '';
+            document.getElementById('email').value = '';
+        }
+
+        // Funksjon som lagrer en ny position
+        function savePosition() {
+            const newPosition = document.getElementById('newPosition').value;
+            positions.push(newPosition);
+
+        // med denne får du en melding hvis man prøver å legge position uten å skrive feltet.
+            if (!newPosition){
+                alert(`'Please enter a position.'`);
+                return;
+            }
+            
+            // oppdater position dropdownen i skjemaet 
+            updatePositionDropdown();
+
+            // Tømer input feltet
+            document.getElementById('newPosition').value = '';
+        }
+
+        // Funksjon som lagrer en ny Department
+        function saveDepartment() {
+            const newDepartment = document.getElementById('newDepartment').value;
+
+        // med denne får du en melding hvis man prøver å legge department uten å skrive feltet.
+            if (!newDepartment){
+                alert(`'Please enter a department.'`);
+                return;
+            }
+
+            departments.push(newDepartment);
+            
+            // oppdater Department dropdownen i skjemaet 
+            updateDepartmentDropdown();
+
+            // Tømer input feltet
+            document.getElementById('newDepartment').value = '';
+        }
+
+        // Funksjon for å håndtere klikk på knappene for stillingsfiltrering
+        
+        function handleFilterClick(event) {
+        const targetButton = event.target;
+        
+        if (targetButton.tagName !== 'BUTTON') return;
+        
+        const filterValue = targetButton.className;
+        const staffListContainer = document.getElementById('staffList');
+        const buttons = document.querySelectorAll('#positionFilter button');
+
+        buttons.forEach(button => button.classList.remove('active'));
+        targetButton.classList.add('active');
+
+            if (filterValue === 'all') {
+                 addStaffHtml();
+                     } else {
+                const filteredStaff = staff.filter(member => member.position === filterValue);
+                    staffListContainer.innerHTML = filteredStaff.map(generateStaffHTML).join('');
+            }
+        }
+
+
+        // generer knapper for position filter
+        const positionFilterList = document.getElementById('positionFilter');
+        positions.forEach(position => {
+            const li = document.createElement('li');
+            const button = document.createElement('button');
+            button.className = position;
+            button.textContent = position;
+            li.appendChild(button);
+            positionFilterList.appendChild(li);
+        });
+
+        // Legg til en hendelseslytter for å håndtere klikk på knappene for  position filter
+        positionFilterList.addEventListener('click', handleFilterClick);
+
+        // Kalle funksjonen for å legge til ansatte i Html
+        addStaffHtml();
+    </script>
+</body>
+
+</html>

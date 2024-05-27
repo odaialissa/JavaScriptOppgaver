@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eksamen oppgave 1: Kalkulator</title>
+    <link rel="stylesheet" href="font/stylesheet.css">
+    <link rel="stylesheet" href="oppgave1style.css">
+</head>
+<body>
+    <article>
+        <input type="text" id="calculation" />
+        <div id="keyboard">
+            <div id="numbers">
+                <button id="number-1" value="1" onclick="display('1')">1</button>
+                <button id="number-2" value="2" onclick="display('2')">2</button>
+                <button id="number-3" value="3" onclick="display('3')">3</button>
+                <button id="number-4" value="4" onclick="display('4')">4</button>
+                <button id="number-5" value="5" onclick="display('5')">5</button>
+                <button id="number-6" value="6" onclick="display('6')">6</button>
+                <button id="number-7" value="7" onclick="display('7')">7</button>
+                <button id="number-8" value="8" onclick="display('8')">8</button>
+                <button id="number-9" value="9" onclick="display('9')">9</button>
+                <button id="number-comma" value="." onclick="display('.')">,</button>
+                <button id="number-0" value="0" onclick="display('0')">0</button>
+                <button id="control-clear" onclick="clearScreen()">C</button>
+            </div>
+            <div id="controls">
+                <button id="control-plus" value="+" onclick="display('+')">+</button>
+                <button id="control-minus" value="-" onclick="display('-')">-</button>
+                <button id="control-multiply" value="*" onclick="display('*')">*</button>
+                <button id="control-divide" value="/" onclick="display('/')">/</button>
+                <button id="control-equal" value="=" onclick="solve()">=</button>
+            </div>
+        </div>
+        <div id="memory">
+            <p>Memory (<span id="memory-bank-count">0</span>)</p>
+            <button id="memory-add" onclick="addMemory()">Add</button>
+            <button id="memory-browseback" onclick="browseMemory(-1)" disabled>Previous</button>
+            <button id="memory-browseforward" onclick="browseMemory(1)" disabled>Next</button>
+        </div>
+    </article>
+
+    <script>
+        let memoryBank = []; // Array for å lagre mattestykker i memory
+        let memoryIndex = -1;
+
+        function display(val) {
+            document.getElementById("calculation").value += val;
+        }
+
+        function solve() {
+         //1: Henter matematiske uttrykket fra kalkulasjonsfeltet
+            let calculation = document.getElementById("calculation").value;
+        // 2: Bruker JavaScript eval()-funksjonen til å evaluere et uttrykk.
+            let result = eval(calculation);
+        // 3: Oppdaterer beregningsfeltet med resultatet.
+            document.getElementById("calculation").value = result;
+        }
+        /**
+     * Løser et matematisk uttrykk som er lagt inn i kalkulatoren.
+     * 1. Leser input fra kalkulasjonsfeltet.
+     * 2. Bruker JavaScript eval()-funksjonen til å evaluere et uttrykk.
+     * 3. Oppdaterer beregningsfeltet med resultatet.
+     */
+
+        function clearScreen() {
+            document.getElementById("calculation").value = "";
+        }
+
+
+        /** Legger til det gjeldende matematiske uttrykket i kalkulasjonsfeltet i minnebanken.*/
+        function addMemory() {
+            const calculation = document.getElementById("calculation").value;
+            memoryBank.push(calculation);
+            updateMemoryCount();
+            console.log("Memory content:", memoryBank);
+
+            // Oppdaterer knappestatus
+            updateButtonStatus();
+        }
+
+        function browseMemory(direction) {
+            if (memoryBank.length > 0) {
+                memoryIndex += direction;
+
+                if (memoryIndex < 0) {
+                    memoryIndex = memoryBank.length - 1;
+                } else if (memoryIndex >= memoryBank.length) {
+                    memoryIndex = 0;
+                }
+
+                const expression = memoryBank[memoryIndex];
+                document.getElementById("calculation").value = expression;
+                updateMemoryCount();
+
+                // Oppdaterer knappestatus
+                updateButtonStatus();
+            }
+        }
+
+        function updateMemoryCount() {
+            document.getElementById("memory-bank-count").textContent = memoryBank.length;
+        }
+
+        function updateButtonStatus() {
+            const backButton = document.getElementById("memory-browseback");
+            const forwardButton = document.getElementById("memory-browseforward");
+
+            backButton.disabled = memoryBank.length === 0 || memoryIndex === 0;
+            
+            // Oppdaterer "Next"-knappen basert på antall elementer i minnebanken
+            forwardButton.disabled = memoryBank.length <= 1 || memoryIndex === memoryBank.length - 1;
+        }
+            // for å kunne bruke tastatur
+        document.addEventListener("keydown", function(event) {
+            let key = event.key;
+            if (!isNaN(key) || key === "." || key === "+" || key === "-" || key === "*" || key === "/") {
+                display(key);
+            } else if (key === "Enter") {
+                solve();
+            } else if (key === "Escape") {
+                clearScreen();
+            }
+        });
+    </script>
+</body>
+</html>

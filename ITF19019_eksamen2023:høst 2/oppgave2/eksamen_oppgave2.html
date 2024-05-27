@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eksamen i Innføring i Programmering - oppgave 2</title>
+    <link rel="stylesheet" href="oppgave2style.css">
+</head>
+<body>
+    <main>
+        <nav>
+            <h2>Controls</h2>
+            <p onclick="addElement('square')"><span class="buttonIllustration" id="sbutton">S</span> Add a square</p>
+            <p onclick="addElement('circle')"><span class="buttonIllustration" id="cbutton">C</span> Add a circle</p>
+            <p onclick="removeRandomElement()"><span class="buttonIllustration" id="rbutton">R</span> Remove random element</p>
+            <button id="startButton" onclick="startGame()">Start Game</button>
+            <button id="stopButton" onclick="stopGame()">Stop Game</button>
+            <button id="restartButton" onclick="restartGame()">Restart Game</button>
+            <h2>Number of elements</h2>
+            <ul>
+                <li>Squares: <span id="squareCount">0</span></li>
+                <li>Circles: <span id="circleCount">0</span></li>
+                <li>Total: <span id="totalCount">0</span></li>
+            </ul>
+            <h2>Time Active</h2>
+            <p id="timeCounter">0 seconds</p>
+            <h2>Average Elements Per Second</h2>
+            <p id="averageCount">0 elements/second</p>
+        </nav>
+        <canvas id="drawArea"></canvas>
+    </main>
+
+    <script>
+        //INITIATE CANVAS
+        //Canvas width: 600, Canvas height: 500
+        const canvas = document.getElementById("drawArea")
+        canvas.width = 600
+        canvas.height = 500
+        const ctx = canvas.getContext("2d")
+
+        // Lagring av flere elementer
+        let elements = []
+
+        
+        // Tid og antall elementer
+        let secondsActive = 0;
+        let elementsAdded = 0;
+        let gameStarted = false;
+
+
+        // Funksjon for å legge til elementer 'square' or 'circle'
+        function addElement(type) {
+            if (!gameStarted) return; 
+            const size = 8; 
+            const newElement = { type: type, x: Math.random() * (canvas.width - size),
+                y: Math.random() * (canvas.height - size),
+                size: size};
+
+            elements.push(newElement);
+            elementsAdded++;
+            updateElementCounts();
+        }
+
+    
+        // funksjon for å fjerne random elementer 
+        function removeRandomElement() {
+            if (!gameStarted) return; 
+            if (elements.length > 0) {
+                const randomIndex = Math.floor(Math.random() * elements.length);
+                elements.splice(randomIndex, 1);
+                updateElementCounts();
+            }
+        }
+
+        
+        // Teller antall square og circle og skriver de ut 
+        function updateElementCounts() {
+            const squareCount = elements.filter(element => element.type === 'square').length;
+            const circleCount = elements.filter(element => element.type === 'circle').length;
+            const totalCount = elements.length;
+
+            document.getElementById("squareCount").innerText = squareCount;
+            document.getElementById("circleCount").innerText = circleCount;
+            document.getElementById("totalCount").innerText = totalCount;
+        }
+
+        // Function to draw on canvas:
+        function renderDrawings() {
+            // Clear the rectangle
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+            // Draw the elements on canvas
+            elements.forEach(element => {
+                ctx.beginPath();
+                if (element.type === 'square') {
+                    ctx.rect(element.x, element.y, element.size, element.size);
+                } else if (element.type === 'circle') {
+                    ctx.arc(element.x, element.y, 5, 0, 2 * Math.PI); // størrelse på sirkel
+                }
+                ctx.fillStyle = 'blue'; // farge 
+                ctx.fill();
+                ctx.stroke();
+            });
+
+            // Testprint
+            console.log("Currently drawing frames...");
+
+            // Bruk requestAnimationFrame til å kjøre renderDrawings-funksjonen på nytt
+            requestAnimationFrame(renderDrawings);
+        }
+
+        //Oppdater tidsteller og gjennomsnittlig telling hvert sekund
+        setInterval(() => {
+            if (gameStarted) {
+                secondsActive++;
+                const averageCount = secondsActive > 0 ? (elementsAdded / secondsActive).toFixed(2) : 0;
+                document.getElementById("timeCounter").innerText = `${secondsActive} second${secondsActive !== 1 ? 's' : ''}`;
+                document.getElementById("averageCount").innerText = `${averageCount} elements/second`;
+            }
+        }, 1000);
+
+        // EventListener for tastaturinput
+        document.addEventListener("keydown", function (event) {
+            if (!gameStarted) return; 
+            const key = event.key.toLowerCase();
+
+            if (key === 's') {
+                addElement('square');
+            } else if (key === 'c') {
+                addElement('circle');
+            } else if (key === 'r') {
+                removeRandomElement();
+            }
+        });
+
+        // EventListener for museklikk
+        document.getElementById("drawArea").addEventListener("click", function (event) {
+            if (!gameStarted) return; 
+
+            // Håndter museklikk her
+            const mouseX = event.clientX - canvas.getBoundingClientRect().left;
+            const mouseY = event.clientY - canvas.getBoundingClientRect().top;
+
+        })
+
+
+        //Det er ekstra knapper jeg har lagt til da man må trykke på start game for å kunne starte, 
+        //det er også stop og reset game 
+
+        // funksjone for å starte game
+        function startGame() {
+            gameStarted = true;
+            document.getElementById("startButton").disabled = true; // Disable the start button once the game starts
+        }
+
+        // funksjone for å stoppe game
+        function stopGame() {
+            gameStarted = false;
+            document.getElementById("startButton").disabled = false; // Enable the start button when the game stops
+        }
+
+        // funksjone for å resete game
+        function restartGame() {
+            stopGame();
+            elements = [];
+            secondsActive = 0;
+            elementsAdded = 0;
+            updateElementCounts();
+            document.getElementById("startButton").disabled = false; // Enable the start button when the game restarts
+        }
+
+        // Start drawing
+        renderDrawings();
+    </script>
+</body>
+</html>

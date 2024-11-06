@@ -1,0 +1,1364 @@
+Ancel's Performance Batch Log 
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The element data type specified is not recognized, or does not apply to the
+specified entry.
+Run "bcdedit /?" for command line assistance.
+Element not found.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+C:\Windows\System32\mcupdate_GenuineIntel.dll
+C:\Windows\System32\mcupdate_AuthenticAMD.dll
+The operation completed successfully.
+An unknown command was specified.
+Run "bcdedit /?" for command line assistance.
+The operation completed successfully.
+WARNING: EnableExportAddressFilter is not supported in system mode.
+WARNING: AuditEnableExportAddressFilter is not supported in system mode.
+WARNING: EnableExportAddressFilterPlus is not supported in system mode.
+WARNING: AuditEnableExportAddressFilterPlus is not supported in system mode.
+WARNING: EnableImportAddressFilter is not supported in system mode.
+WARNING: AuditEnableImportAddressFilter is not supported in system mode.
+WARNING: EnableRopStackPivot is not supported in system mode.
+WARNING: AuditEnableRopStackPivot is not supported in system mode.
+WARNING: EnableRopCallerCheck is not supported in system mode.
+WARNING: AuditEnableRopCallerCheck is not supported in system mode.
+WARNING: EnableRopSimExec is not supported in system mode.
+WARNING: AuditEnableRopSimExec is not supported in system mode.
+WARNING: DisallowChildProcessCreation is not supported in system mode.
+WARNING: AuditChildProcess is not supported in system mode.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+NOTE: Changes to this setting require a reboot to take effect.
+MemoryUsage = 2NOTE: Changes to this setting require a reboot to take effect.
+MftZone = 4  (translates to a zone size of 800 MB)
+DisableLastAccess = 1  (User Managed, Enabled)
+NTFS DisableDeleteNotify = 0  (Disabled)
+NOTE: Changes to this setting require a reboot to take effect.
+EncryptPagingFile = 0  (Disabled)
+Disable-MMAgent : The service cannot be started, either because it is disabled or because it has no enabled devices 
+associated with it. 
+At line:1 char:1
++ Disable-MMAgent -MemoryCompression
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ResourceUnavailable: (PS_MMAgent:Root\Microsoft\...gent\PS_MMAgent) [Disable-MMAgent], C 
+   imException
+    + FullyQualifiedErrorId : Windows System Error 1058,Disable-MMAgent
+ 
+Disable-MMAgent : The service cannot be started, either because it is disabled or because it has no enabled devices 
+associated with it. 
+At line:1 char:1
++ Disable-MMAgent -PageCombining
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ResourceUnavailable: (PS_MMAgent:Root\Microsoft\...gent\PS_MMAgent) [Disable-MMAgent], C 
+   imException
+    + FullyQualifiedErrorId : Windows System Error 1058,Disable-MMAgent
+ 
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+SUCCESS: The scheduled task "\Microsoft\Windows\Customer Experience Improvement Program\Consolidator" has been terminated successfully.
+INFO: Scheduled task "\Microsoft\Windows\Customer Experience Improvement Program\Consolidator" has already been disabled.
+SUCCESS: The parameters of scheduled task "\Microsoft\Windows\Customer Experience Improvement Program\Consolidator" have been changed.
+SUCCESS: The scheduled task "\Microsoft\Windows\Customer Experience Improvement Program\UsbCeip" has been terminated successfully.
+INFO: Scheduled task "\Microsoft\Windows\Customer Experience Improvement Program\UsbCeip" has already been disabled.
+SUCCESS: The parameters of scheduled task "\Microsoft\Windows\Customer Experience Improvement Program\UsbCeip" have been changed.
+SUCCESS: The scheduled task "\Microsoft\Windows\Application Experience\Microsoft Compatibility Appraiser" has been terminated successfully.
+INFO: Scheduled task "\Microsoft\Windows\Application Experience\Microsoft Compatibility Appraiser" has already been disabled.
+SUCCESS: The parameters of scheduled task "\Microsoft\Windows\Application Experience\Microsoft Compatibility Appraiser" have been changed.
+SUCCESS: The scheduled task "\Microsoft\Windows\Application Experience\ProgramDataUpdater" has been terminated successfully.
+INFO: Scheduled task "\Microsoft\Windows\Application Experience\ProgramDataUpdater" has already been disabled.
+SUCCESS: The parameters of scheduled task "\Microsoft\Windows\Application Experience\ProgramDataUpdater" have been changed.
+SUCCESS: The scheduled task "\Microsoft\Windows\Application Experience\StartupAppTask" has been terminated successfully.
+INFO: Scheduled task "\Microsoft\Windows\Application Experience\StartupAppTask" has already been disabled.
+SUCCESS: The parameters of scheduled task "\Microsoft\Windows\Application Experience\StartupAppTask" have been changed.
+SUCCESS: The scheduled task "\Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticDataCollector" has been terminated successfully.
+INFO: Scheduled task "\Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticDataCollector" has already been disabled.
+SUCCESS: The parameters of scheduled task "\Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticDataCollector" have been changed.
+SUCCESS: The scheduled task "\Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticResolver" has been terminated successfully.
+INFO: Scheduled task "\Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticResolver" has already been disabled.
+SUCCESS: The parameters of scheduled task "\Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticResolver" have been changed.
+SUCCESS: The scheduled task "\Microsoft\Windows\Power Efficiency Diagnostics\AnalyzeSystem" has been terminated successfully.
+INFO: Scheduled task "\Microsoft\Windows\Power Efficiency Diagnostics\AnalyzeSystem" has already been disabled.
+SUCCESS: The parameters of scheduled task "\Microsoft\Windows\Power Efficiency Diagnostics\AnalyzeSystem" have been changed.
+SUCCESS: The scheduled task "\Microsoft\Windows\Shell\FamilySafetyMonitor" has been terminated successfully.
+INFO: Scheduled task "\Microsoft\Windows\Shell\FamilySafetyMonitor" has already been disabled.
+SUCCESS: The parameters of scheduled task "\Microsoft\Windows\Shell\FamilySafetyMonitor" have been changed.
+SUCCESS: The scheduled task "\Microsoft\Windows\Autochk\Proxy" has been terminated successfully.
+INFO: Scheduled task "\Microsoft\Windows\Autochk\Proxy" has already been disabled.
+SUCCESS: The parameters of scheduled task "\Microsoft\Windows\Autochk\Proxy" have been changed.
+SUCCESS: The scheduled task "\Microsoft\Windows\Maintenance\WinSAT" has been terminated successfully.
+INFO: Scheduled task "\Microsoft\Windows\Maintenance\WinSAT" has already been disabled.
+SUCCESS: The parameters of scheduled task "\Microsoft\Windows\Maintenance\WinSAT" have been changed.
+SUCCESS: The scheduled task "\Microsoft\Windows\Windows Error Reporting\QueueReporting" has been terminated successfully.
+INFO: Scheduled task "\Microsoft\Windows\Windows Error Reporting\QueueReporting" has already been disabled.
+SUCCESS: The parameters of scheduled task "\Microsoft\Windows\Windows Error Reporting\QueueReporting" have been changed.
+SUCCESS: The scheduled task "\Microsoft\Windows\CloudExperienceHost\CreateObjectTask" has been terminated successfully.
+INFO: Scheduled task "\Microsoft\Windows\CloudExperienceHost\CreateObjectTask" has already been disabled.
+SUCCESS: The parameters of scheduled task "\Microsoft\Windows\CloudExperienceHost\CreateObjectTask" have been changed.
+SUCCESS: The scheduled task "\Microsoft\Windows\DiskFootprint\Diagnostics" has been terminated successfully.
+INFO: Scheduled task "\Microsoft\Windows\DiskFootprint\Diagnostics" has already been disabled.
+SUCCESS: The parameters of scheduled task "\Microsoft\Windows\DiskFootprint\Diagnostics" have been changed.
+SUCCESS: The scheduled task "\Microsoft\Windows\FileHistory\File History (maintenance mode)" has been terminated successfully.
+INFO: Scheduled task "\Microsoft\Windows\FileHistory\File History (maintenance mode)" has already been disabled.
+SUCCESS: The parameters of scheduled task "\Microsoft\Windows\FileHistory\File History (maintenance mode)" have been changed.
+SUCCESS: The scheduled task "\Microsoft\Windows\PI\Sqm-Tasks" has been terminated successfully.
+INFO: Scheduled task "\Microsoft\Windows\PI\Sqm-Tasks" has already been disabled.
+SUCCESS: The parameters of scheduled task "\Microsoft\Windows\PI\Sqm-Tasks" have been changed.
+SUCCESS: The scheduled task "\Microsoft\Windows\NetTrace\GatherNetworkInfo" has been terminated successfully.
+INFO: Scheduled task "\Microsoft\Windows\NetTrace\GatherNetworkInfo" has already been disabled.
+SUCCESS: The parameters of scheduled task "\Microsoft\Windows\NetTrace\GatherNetworkInfo" have been changed.
+SUCCESS: The scheduled task "\Microsoft\Windows\Time Synchronization\ForceSynchronizeTime" has been terminated successfully.
+SUCCESS: The parameters of scheduled task "\Microsoft\Windows\Time Synchronization\ForceSynchronizeTime" have been changed.
+SUCCESS: The scheduled task "\Microsoft\Windows\Time Synchronization\SynchronizeTime" has been terminated successfully.
+SUCCESS: The parameters of scheduled task "\Microsoft\Windows\Time Synchronization\SynchronizeTime" have been changed.
+SUCCESS: The scheduled task "\Microsoft\Windows\Device Information\Device" has been terminated successfully.
+INFO: Scheduled task "\Microsoft\Windows\Device Information\Device" has already been disabled.
+SUCCESS: The parameters of scheduled task "\Microsoft\Windows\Device Information\Device" have been changed.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+Disabling Telemetry Services 
+[SC] ControlService FAILED 1062:
+
+The service has not been started.
+
+[SC] ChangeServiceConfig SUCCESS
+[SC] ControlService FAILED 1062:
+
+The service has not been started.
+
+[SC] ChangeServiceConfig SUCCESS
+[SC] ControlService FAILED 1062:
+
+The service has not been started.
+
+[SC] ChangeServiceConfig SUCCESS
+Remove-AppxPackage : Deployment failed with HRESULT: 0x80073CFA, Removal failed. Please contact your software vendor. (Exception from HRESULT: 0x80073CFA)
+error 0x80070032: AppX Deployment Remove operation on package Microsoft.Windows.PeopleExperienceHost_10.0.19041.4239_neutral_neutral_cw5n1h2txyewy from: C:\Windows\SystemApps\Microsoft.Windows.PeopleExperienceHost_cw5n1h2txyewy failed. 
+This app is part of Windows and cannot be uninstalled on a per-user basis. An administrator can attempt to remove the app from the computer using Turn Windows Features on or off. However, it may not be possible to uninstall the app.
+NOTE: For additional information, look for [ActivityId] ade541e2-2ee3-0006-f3a3-e6ade32edb01 in the Event Log or use the command line Get-AppPackageLog -ActivityID ade541e2-2ee3-0006-f3a3-e6ade32edb01
+At line:1 char:38
++ Get-AppxPackage -allusers *people* | Remove-AppxPackage
++                                      ~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (Microsoft.Windo...l_cw5n1h2txyewy:String) [Remove-AppxPackage], IOException
+    + FullyQualifiedErrorId : DeploymentError,Microsoft.Windows.Appx.PackageManager.Commands.RemoveAppxPackageCommand
+ 
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+Deleted file - c:\windows\temp\MpCmdRun.log
+C:\Users\LAITH-~1\AppData\Local\Temp\35562a79-3f21-4d87-9881-c470fb4f6e17.tmp
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\39a8e743-45f9-4bf1-9c30-be2f3c0ea93e.tmp
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\3D95.tmp
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\3DF3.tmp
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\3E22.tmp
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\3E23.tmp
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\3E24.tmp
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\3EBE.tmp
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\3F6A.tmp
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\420A.tmp
+C:\Users\LAITH-~1\AppData\Local\Temp\494210f7-4f16-4dd5-8b7a-d7966142cd2a.tmp
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\71EB.tmp
+C:\Users\LAITH-~1\AppData\Local\Temp\97087452-bd07-4311-b643-9fc93a91f9f2.tmp
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\9a72cbdf-5fa9-43c2-ad7c-8beaabd2043b.tmp
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\A77B.tmp
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\AB5D.tmp
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\aria-debug-10764.log
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\aria-debug-1236.log
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\aria-debug-9172.log
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\B143.tmp
+C:\Users\LAITH-~1\AppData\Local\Temp\b2466848-60f4-484f-9f4a-6c2844f21e5d.tmp
+C:\Users\LAITH-~1\AppData\Local\Temp\b592b410-d40a-4953-b1ae-9811323b3702.tmp
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\bootstrapper.log
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\cod36DB.tmp
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\cod3EA0.tmp
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\cod4E6A.tmp
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\codC81.tmp
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\codDD81.tmp
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\codF501.tmp
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\cs_153d
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\cs_1621
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\cs_1a35
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\cs_1a87
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\cs_2498
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\cs_2998
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\cs_2b08
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\cs_2c48
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\cs_3e18
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\cs_3f23
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\cs_4375
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\cs_46c8
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\cs_4d43
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\cs_4ed6
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\cs_4fa3
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\cs_50d1
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\cs_522a
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\cs_5b6b
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\cs_5cd5
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\cs_6081
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\cs_6110
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\cs_6123
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\cs_622c
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\cs_638c
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\cs_8ef
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\cs_9d5
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\d8a101c8-dfc5-41c6-8d91-1803aa9b3f4f.tmp
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\dd_vcredist_amd64_20241101210210.log
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\dd_vcredist_amd64_20241101210210_000_vcRuntimeMinimum_x64.log
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\dd_vcredist_amd64_20241101210210_001_vcRuntimeAdditional_x64.log
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\dd_vcredist_amd64_20241101210212.log
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\dd_vcredist_x86_20241101210157.log
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\dd_vcredist_x86_20241101210157_000_vcRuntimeMinimum_x86.log
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\dd_vcredist_x86_20241101210157_001_vcRuntimeAdditional_x86.log
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\dd_vcredist_x86_20241101210209.log
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\ecache.bin
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\nvidiaProfileInspector.zip
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\Activision\bootstrapper\20241102-040214179\crashhandler.log
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\Activision\bootstrapper\20241102-051737671\crashhandler.log
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\Activision\Call of Duty\20241102-040601069\bootlog.txt
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\Activision\Call of Duty\20241102-040601069\crashhandler.log
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\Activision\Call of Duty\20241102-040636545\datafile.json
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\Activision\Call of Duty\20241102-040636545\info.json
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\Activision\Call of Duty\20241102-040636545\stacktrace_crash.csv
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\Activision\Call of Duty\20241102-040636545\~crashed
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\Activision\Call of Duty\20241102-040856670\bootlog.txt
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\Activision\Call of Duty\20241102-040856670\crashhandler.log
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\Activision\Call of Duty\20241102-042237478\bootlog.txt
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\Activision\Call of Duty\20241102-042237478\crashhandler.log
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\Activision\Call of Duty\20241102-042310661\crashhandler.log
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\Activision\Call of Duty\20241102-042332668\bootlog.txt
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\Activision\Call of Duty\20241102-042332668\crashhandler.log
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\Activision\Call of Duty\20241102-042427516\crashhandler.log
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\Activision\Call of Duty\20241102-043339805\crashhandler.log
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\Activision\Call of Duty\20241102-044610956\crashhandler.log
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\Activision\Call of Duty\20241102-051743661\bootlog.txt
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\Activision\Call of Duty\20241102-051743661\crashhandler.log
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\Activision\Call of Duty\20241102-051807650\crashhandler.log
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\Activision\Call of Duty\20241102-051825959\bootlog.txt
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\Activision\Call of Duty\20241102-051825959\crashhandler.log
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\Activision\Call of Duty\20241102-051921930\bootlog.txt
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\Activision\Call of Duty\20241102-051921930\crashhandler.log
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\Activision\Call of Duty\20241102-052035434\crashhandler.log
+Deleted file - C:\Users\LAITH-~1\AppData\Local\Temp\Activision\Call of Duty\20241102-055828254\crashhandler.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\EpicGamesLauncher\com\26E27F4745A76867C0D7779E14F3F80Duriforward.tmp
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\EpicGamesLauncher\com\E4E4447143FC26B99DE6F8BF92CC66C8uriforward.tmp
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\JumpListIconsMostVisited\5cef47a1-2be9-4fce-ba08-c794ab5d88a7.tmp
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\JumpListIconsMostVisited\890733b1-7351-4728-9393-946326a0c43f.tmp
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\JumpListIconsMostVisited\97d91f7d-dc3c-4c42-b28b-4e663dca9997.tmp
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\JumpListIconsMostVisited\f40257f1-8b38-411a-a901-89d5147947cf.tmp
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\JumpListIconsRecentClosed\0c3beac1-af57-4292-9fec-17989ad51496.tmp
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\JumpListIconsRecentClosed\78edf604-a1c7-48fd-ae08-6014163f0027.tmp
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\JumpListIconsRecentClosed\f182a65a-0d60-4639-abab-0017ff482fbe.tmp
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\JumpListIconsMostVisited\3ebd062b-a09e-4793-b069-227bbfe913cf.tmp
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\JumpListIconsRecentClosed\15d352c0-bb60-4178-952d-1a73a32a7337.tmp
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\JumpListIconsRecentClosed\45a05f27-19c8-4b18-b9be-a42664ad5c3f.tmp
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\JumpListIconsRecentClosed\cac43c5d-5615-4e4f-864e-cec3d8e45176.tmp
+C:\Users\Laith-Ahmed\AppData\Local\Temp\35562a79-3f21-4d87-9881-c470fb4f6e17.tmp
+C:\Users\Laith-Ahmed\AppData\Local\Temp\494210f7-4f16-4dd5-8b7a-d7966142cd2a.tmp
+C:\Users\Laith-Ahmed\AppData\Local\Temp\97087452-bd07-4311-b643-9fc93a91f9f2.tmp
+C:\Users\Laith-Ahmed\AppData\Local\Temp\b2466848-60f4-484f-9f4a-6c2844f21e5d.tmp
+C:\Users\Laith-Ahmed\AppData\Local\Temp\b592b410-d40a-4953-b1ae-9811323b3702.tmp
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\UnrealEngineLauncher\com\0C5B22A64FF8BDC97D1B9AB469606F7Etransfer.tmp
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\UnrealEngineLauncher\com\1D6DABCF43BB3C0A67D91A92D5BA72E7transfer.tmp
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\UnrealEngineLauncher\com\29CAE75A4664E34CFD7C84AA08B2BEC4transfer.tmp
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\UnrealEngineLauncher\com\6679D07449AA11F7848A10A7B444F20Atransfer.tmp
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\UnrealEngineLauncher\com\79EE8A5547F723773B808A9B5945241Ctransfer.tmp
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\UnrealEngineLauncher\com\7F46F5F243F2C88B6824A1B51BD02EAFtransfer.tmp
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\UnrealEngineLauncher\com\AF6691D44DAED9D990CD6B84ACCE6145transfer.tmp
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\UnrealEngineLauncher\com\BC7D59F24EF59BE20657D49C14340DF4transfer.tmp
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\UnrealEngineLauncher\com\D161D810405A0AE05B14BF8D06F64959transfer.tmp
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\UnrealEngineLauncher\com\F0A6C9874FD33639C54D17B4F250C4B8transfer.tmp
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\UnrealEngineLauncher\com\F887DA154C64DEB9BCB7A79E138135C7transfer.tmp
+Deleted file - C:\Users\Laith-Ahmed.DESKTOP-0K48037\AppData\Local\Temp\tmp2D68.tmp
+Deleted file - C:\Users\Laith-Ahmed.DESKTOP-0K48037\AppData\Local\Temp\tmp2E70.tmp
+Deleted file - C:\Users\Laith-Ahmed.DESKTOP-0K48037\AppData\Local\Temp\wct2B53.tmp
+Deleted file - C:\Users\Laith-Ahmed.DESKTOP-0K48037\AppData\Local\Temp\wct3CB8.tmp
+Deleted file - C:\Users\Laith-Ahmed.DESKTOP-0K48037\AppData\Local\Temp\wct5CE5.tmp
+Deleted file - C:\Users\Laith-Ahmed.DESKTOP-0K48037\AppData\Local\Temp\wct62A2.tmp
+Deleted file - C:\Program Files\NVIDIA Corporation\NVIDIA app\CEF\debug.log
+Deleted file - C:\Program Files (x86)\Steam\GameOverlayRenderer.log
+Deleted file - C:\Program Files (x86)\Steam\GameOverlayUI.exe.log
+Deleted file - C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\debug.log
+Deleted file - C:\Program Files (x86)\Steam\steamapps\common\Call of Duty HQ\bootstrapper.log
+Deleted file - C:\ProgramData\ASUS\SCD\AsusUpdateCheck_01_20241104030855.log
+Deleted file - C:\ProgramData\ASUS\SCD\AsusUpdateCheck_02_20241104082159.log
+Deleted file - C:\ProgramData\ASUS\SCD\AsusUpdateCheck_03_20241104100221.log
+Deleted file - C:\ProgramData\ASUS\SCD\AsusUpdateCheck_06_20241101184538.log
+Deleted file - C:\ProgramData\ASUS\SCD\AsusUpdateCheck_07_20241102044616.log
+Deleted file - C:\ProgramData\ASUS\SCD\AsusUpdateCheck_08_20241103033626.log
+Deleted file - C:\ProgramData\ASUS\SCD\AsusUpdateCheck_09_20241103085121.log
+Deleted file - C:\ProgramData\ASUS\SCD\AsusUpdateCheck_10_20241103142133.log
+Deleted file - C:\ProgramData\Microsoft\Network\Downloader\edb.log
+Deleted file - C:\ProgramData\Microsoft\Network\Downloader\edbtmp.log
+C:\ProgramData\Microsoft\Windows Defender\Scans\History\Service\Detections.log
+Deleted file - C:\ProgramData\Microsoft\Windows Defender\Scans\History\Service\History.Log
+Deleted file - C:\ProgramData\Microsoft\Windows Defender\Scans\History\Service\Unknown.Log
+C:\ProgramData\Microsoft\Windows Defender\Support\MPDetection-20241031-042454.log
+C:\ProgramData\Microsoft\Windows Defender\Support\MPLog-20241031-042454.log
+C:\ProgramData\NVIDIA\DisplaySessionContainer1.log
+Deleted file - C:\ProgramData\NVIDIA\NvcDispCorePlugin.log
+C:\ProgramData\NVIDIA\NVDisplay.ContainerLocalSystem.log
+C:\ProgramData\NVIDIA\NVDisplayContainerWatchdog.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\FrameViewSDK\AggregatorPlugin.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\FrameViewSDK\container.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\FrameViewSDK\FrameViewSvc.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\FrameViewSDK\FvSDKClient1804.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\FrameViewSDK\FvSDKClient3676.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\FrameViewSDK\FvSDKClient4132.log
+C:\ProgramData\NVIDIA Corporation\FrameViewSDK\FvSDKClient4652.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\FrameViewSDK\FvSDKClient4716.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\FrameViewSDK\FvSDKClient5016.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\FrameViewSDK\FvSDKClient5024.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\FrameViewSDK\FvSDKClient5060.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\FrameViewSDK\FvSDKClient5088.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\FrameViewSDK\FvSDKClient9188.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\FrameViewSDK\PresentMon_Consumer.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\FrameViewSDK\PresentMon_Provider.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\FrameViewSDK\Messagebus\MessageBusBroadcast.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\FrameViewSDK\Messagebus\MessageBus_10664.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\FrameViewSDK\Messagebus\MessageBus_1088.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\FrameViewSDK\Messagebus\MessageBus_9168.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\FrameViewSDK\Messagebus\MessageBus_9188.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\FrameViewSDK\Messagebus\NvMessageBusBroadcastPlugin.log
+C:\ProgramData\NVIDIA Corporation\GameSessionTelemetry\telemetryPlugin.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\GfnRuntimeSdk\GfnRuntimeSdk.1.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\GfnRuntimeSdk\GfnRuntimeSdk.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\NVIDIA app\CxNative_LocalSystem.1.log
+C:\ProgramData\NVIDIA Corporation\NVIDIA app\CxNative_LocalSystem.log
+C:\ProgramData\NVIDIA Corporation\NVIDIA app\MessageBus\MessageBusBroadcast.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\NVIDIA app\MessageBus\MessageBus_11896_0x1FD652F2130.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\NVIDIA app\MessageBus\MessageBus_1804.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\NVIDIA app\MessageBus\MessageBus_1804_0x1F7480D3850.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\NVIDIA app\MessageBus\MessageBus_1836.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\NVIDIA app\MessageBus\MessageBus_1896.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\NVIDIA app\MessageBus\MessageBus_1904.log
+C:\ProgramData\NVIDIA Corporation\NVIDIA app\MessageBus\MessageBus_2464.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\NVIDIA app\MessageBus\MessageBus_2480.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\NVIDIA app\MessageBus\MessageBus_2488.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\NVIDIA app\MessageBus\MessageBus_2500.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\NVIDIA app\MessageBus\MessageBus_2520.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\NVIDIA app\MessageBus\MessageBus_3128.log
+C:\ProgramData\NVIDIA Corporation\NVIDIA app\MessageBus\MessageBus_3492.log
+C:\ProgramData\NVIDIA Corporation\NVIDIA app\MessageBus\MessageBus_3580.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\NVIDIA app\MessageBus\MessageBus_3616.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\NVIDIA app\MessageBus\MessageBus_3620.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\NVIDIA app\MessageBus\MessageBus_3684.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\NVIDIA app\MessageBus\MessageBus_3744.log
+C:\ProgramData\NVIDIA Corporation\NVIDIA app\MessageBus\MessageBus_3920.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\NVIDIA app\MessageBus\MessageBus_3948.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\NVIDIA app\MessageBus\MessageBus_3960.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\NVIDIA app\MessageBus\MessageBus_4008.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\NVIDIA app\MessageBus\MessageBus_4100.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\NVIDIA app\MessageBus\MessageBus_4116.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\NVIDIA app\MessageBus\MessageBus_4128_0x2B3B6A7BFF0.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\NVIDIA app\MessageBus\MessageBus_4240.log
+C:\ProgramData\NVIDIA Corporation\NVIDIA app\MessageBus\MessageBus_4596.log
+C:\ProgramData\NVIDIA Corporation\NVIDIA app\MessageBus\MessageBus_4652.log
+C:\ProgramData\NVIDIA Corporation\NVIDIA app\MessageBus\MessageBus_4652_0x25BCA5DA720.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\NVIDIA app\MessageBus\MessageBus_4716.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\NVIDIA app\MessageBus\MessageBus_4716_0x23E689846C0.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\NVIDIA app\MessageBus\MessageBus_4996.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\NVIDIA app\MessageBus\MessageBus_5016.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\NVIDIA app\MessageBus\MessageBus_5016_0x140F3176260.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\NVIDIA app\MessageBus\MessageBus_7136_0x26536D1E270.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\NVIDIA app\MessageBus\MessageBus_8236_0x1D6646FAD00.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\NVIDIA app\MessageBus\MessageBus_9188.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\NVIDIA app\MessageBus\MessageBus_9204_0x212BA145D40.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\NVIDIA app\MessageBus\MessageBus_9412_0x1ED34763980.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\NVIDIA app\MessageBus\MessageBus_9532_0x251A17712F0.log
+C:\ProgramData\NVIDIA Corporation\NVIDIA app\NvContainer\NvContainerLocalSystem.log
+C:\ProgramData\NVIDIA Corporation\NVIDIA app\NvContainer\NvContainerSession1.log
+C:\ProgramData\NVIDIA Corporation\NVIDIA app\NvContainer\NvContainerUser1.log
+C:\ProgramData\NVIDIA Corporation\NVIDIA app\NvContainer\NvContainerUser1SPUser.log
+C:\ProgramData\NVIDIA Corporation\NVIDIA app\NvContainer\NvContainerWatchdog.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\NVIDIA app\UXD\Log.nvcontainer.exe.log
+C:\ProgramData\NVIDIA Corporation\NvProfileUpdaterPlugin\NvProfileUpdaterPlugin_1.log
+C:\ProgramData\NVIDIA Corporation\NvTelemetry\NvTelemetry.log
+C:\ProgramData\NVIDIA Corporation\nvtopps\nvtopps.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\NvVAD\AudioDriver_nvcontainer_241103_085122__0.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\NvVAD\AudioDriver_nvcontainer_241103_142134__0.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\NvVAD\AudioDriver_nvcontainer_241104_030856__0.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\NvVAD\AudioDriver_nvcontainer_241104_082200__0.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\NvVAD\AudioDriver_nvcontainer_241104_100222__0.log
+Deleted file - C:\ProgramData\NVIDIA Corporation\ShadowPlay\CaptureCore.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\CrashReportClient\Saved\Logs\CrashReportClient-backup-2024.11.01-22.52.29.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\CrashReportClient\Saved\Logs\CrashReportClient-backup-2024.11.01-23.58.39.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\CrashReportClient\Saved\Logs\CrashReportClient-backup-2024.11.02-04.01.40.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\CrashReportClient\Saved\Logs\CrashReportClient-backup-2024.11.02-12.39.23.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\CrashReportClient\Saved\Logs\CrashReportClient-backup-2024.11.02-14.45.23.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\CrashReportClient\Saved\Logs\CrashReportClient-backup-2024.11.02-17.49.53.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\CrashReportClient\Saved\Logs\CrashReportClient-backup-2024.11.02-21.23.00.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\CrashReportClient\Saved\Logs\CrashReportClient-backup-2024.11.02-22.48.43.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\CrashReportClient\Saved\Logs\CrashReportClient-backup-2024.11.03-01.13.25.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\CrashReportClient\Saved\Logs\CrashReportClient-backup-2024.11.03-06.15.46.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\CrashReportClient\Saved\Logs\CrashReportClient-backup-2024.11.03-11.41.32.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\CrashReportClient\Saved\Logs\CrashReportClient-backup-2024.11.03-14.16.22.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\CrashReportClient\Saved\Logs\CrashReportClient-backup-2024.11.03-15.00.32.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\CrashReportClient\Saved\Logs\CrashReportClient-backup-2024.11.03-18.16.34.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\CrashReportClient\Saved\Logs\CrashReportClient-backup-2024.11.03-22.12.17.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\CrashReportClient\Saved\Logs\CrashReportClient-backup-2024.11.04-00.17.06.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\CrashReportClient\Saved\Logs\CrashReportClient-backup-2024.11.04-11.27.52.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\CrashReportClient\Saved\Logs\CrashReportClient-backup-2024.11.04-18.06.48.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\CrashReportClient\Saved\Logs\CrashReportClient-backup-2024.11.04-20.57.38.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\CrashReportClient\Saved\Logs\CrashReportClient-backup-2024.11.04-20.58.55.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\CrashReportClient\Saved\Logs\CrashReportClient-backup-2024.11.04-21.05.37.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\CrashReportClient\Saved\Logs\CrashReportClient.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\CrashReportClient\Saved\Logs\CrashReportClient_2.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Discord\SquirrelSetup.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Discord\app-1.0.9168\discord_utils.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Discord\app-1.0.9168\modules\discord_dispatch-1\discord_dispatch\dispatch.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\EpicGamesLauncher\Saved\Logs\cef3-backup-2024.11.02-21.25.19.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\EpicGamesLauncher\Saved\Logs\cef3-backup-2024.11.02-22.57.46.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\EpicGamesLauncher\Saved\Logs\cef3-backup-2024.11.03-01.15.43.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\EpicGamesLauncher\Saved\Logs\cef3-backup-2024.11.03-11.41.58.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\EpicGamesLauncher\Saved\Logs\cef3-backup-2024.11.03-13.00.01.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\EpicGamesLauncher\Saved\Logs\cef3-backup-2024.11.03-16.56.20.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\EpicGamesLauncher\Saved\Logs\cef3-backup-2024.11.03-20.48.35.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\EpicGamesLauncher\Saved\Logs\cef3-backup-2024.11.03-22.53.20.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\EpicGamesLauncher\Saved\Logs\cef3-backup-2024.11.04-18.04.31.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\EpicGamesLauncher\Saved\Logs\cef3-backup-2024.11.04-18.39.10.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\EpicGamesLauncher\Saved\Logs\cef3.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\EpicGamesLauncher\Saved\Logs\EpicGamesLauncher-backup-2024.11.02-23.29.46.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\EpicGamesLauncher\Saved\Logs\EpicGamesLauncher-backup-2024.11.03-01.31.33.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\EpicGamesLauncher\Saved\Logs\EpicGamesLauncher-backup-2024.11.03-11.43.15.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\EpicGamesLauncher\Saved\Logs\EpicGamesLauncher-backup-2024.11.03-15.05.51.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\EpicGamesLauncher\Saved\Logs\EpicGamesLauncher-backup-2024.11.03-17.18.49.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\EpicGamesLauncher\Saved\Logs\EpicGamesLauncher-backup-2024.11.03-21.05.23.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\EpicGamesLauncher\Saved\Logs\EpicGamesLauncher-backup-2024.11.03-23.03.07.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\EpicGamesLauncher\Saved\Logs\EpicGamesLauncher-backup-2024.11.04-11.27.49.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\EpicGamesLauncher\Saved\Logs\EpicGamesLauncher-backup-2024.11.04-18.06.48.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\EpicGamesLauncher\Saved\Logs\EpicGamesLauncher-backup-2024.11.04-19.19.01.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\EpicGamesLauncher\Saved\Logs\EpicGamesLauncher.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\EpicGamesLauncher\Saved\webcache_4430\000003.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\EpicGamesLauncher\Saved\webcache_4430\IndexedDB\https_launcher.store.epicgames.com_0.indexeddb.leveldb\000156.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\EpicGamesLauncher\Saved\webcache_4430\Local Storage\leveldb\000004.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\EpicGamesLauncher\Saved\webcache_4430\Service Worker\Database\000003.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\EpicGamesLauncher\Saved\webcache_4430\Session Storage\000003.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\EpicGamesLauncher\Saved\webcache_4430\shared_proto_db\000003.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\EpicGamesLauncher\Saved\webcache_4430\shared_proto_db\metadata\000003.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\FortniteGame\Saved\Crashes\UECC-Windows-7ED7F3C749551A62BC3BB5A13FD9773D_0000\FortniteGame.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\FortniteGame\Saved\Logs\FortniteGame-backup-2024.11.01-22.52.26.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\FortniteGame\Saved\Logs\FortniteGame-backup-2024.11.01-23.58.36.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\FortniteGame\Saved\Logs\FortniteGame-backup-2024.11.02-04.01.37.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\FortniteGame\Saved\Logs\FortniteGame-backup-2024.11.02-12.39.20.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\FortniteGame\Saved\Logs\FortniteGame-backup-2024.11.02-14.45.20.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\FortniteGame\Saved\Logs\FortniteGame-backup-2024.11.02-17.49.50.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\FortniteGame\Saved\Logs\FortniteGame-backup-2024.11.02-21.22.57.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\FortniteGame\Saved\Logs\FortniteGame-backup-2024.11.02-22.48.40.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\FortniteGame\Saved\Logs\FortniteGame-backup-2024.11.03-01.13.22.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\FortniteGame\Saved\Logs\FortniteGame-backup-2024.11.03-06.15.43.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\FortniteGame\Saved\Logs\FortniteGame-backup-2024.11.03-11.41.30.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\FortniteGame\Saved\Logs\FortniteGame-backup-2024.11.03-14.16.20.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\FortniteGame\Saved\Logs\FortniteGame-backup-2024.11.03-15.00.29.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\FortniteGame\Saved\Logs\FortniteGame-backup-2024.11.03-18.16.32.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\FortniteGame\Saved\Logs\FortniteGame-backup-2024.11.03-22.12.14.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\FortniteGame\Saved\Logs\FortniteGame-backup-2024.11.04-00.17.03.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\FortniteGame\Saved\Logs\FortniteGame-backup-2024.11.04-11.27.49.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\FortniteGame\Saved\Logs\FortniteGame-backup-2024.11.04-18.06.46.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\FortniteGame\Saved\Logs\FortniteGame-backup-2024.11.04-20.57.35.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\FortniteGame\Saved\Logs\FortniteGame-backup-2024.11.04-20.58.54.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\FortniteGame\Saved\Logs\FortniteGame-backup-2024.11.04-21.05.34.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\FortniteGame\Saved\Logs\FortniteGame.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\FortniteGame\Saved\Logs\FortniteLauncher.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\Extension Rules\000003.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\Extension Scripts\000003.log
+C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\Extension State\000003.log
+C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\000003.log
+C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\GCM Store\000003.log
+C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\GCM Store\Encryption\000003.log
+C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\chrome-extension_cfhdojbkjhnklbpkdaibdccddilifddb_0.indexeddb.leveldb\000003.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.showtv.com.tr_0.indexeddb.leveldb\000003.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.twitch.tv_0.indexeddb.leveldb\000003.log
+C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb\000030.log
+C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\Local Extension Settings\cfhdojbkjhnklbpkdaibdccddilifddb\000080.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\Local Extension Settings\ghbmnnjooekpmoecnnnilnnbdlolhkhi\000003.log
+C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\Local Storage\leveldb\000065.log
+C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\Managed Extension Settings\cfhdojbkjhnklbpkdaibdccddilifddb\000003.log
+C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\Service Worker\Database\000003.log
+C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\Session Storage\000014.log
+C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\shared_proto_db\000003.log
+C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\shared_proto_db\metadata\000003.log
+C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\Site Characteristics Database\000003.log
+C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\Sync Data\LevelDB\000038.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\WebStorage\16\FileSystem\t\Paths\000003.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\WebStorage\5\IndexedDB\indexeddb.leveldb\000003.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\Extension State\000003.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\GCM Store\000003.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\GCM Store\Encryption\000003.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb\000069.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\Local Extension Settings\ghbmnnjooekpmoecnnnilnnbdlolhkhi\000003.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\Local Storage\leveldb\000029.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\Platform Notifications\000003.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\Service Worker\Database\000003.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\Session Storage\000003.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\Session Storage\000004.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\shared_proto_db\000003.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\shared_proto_db\metadata\000003.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\Site Characteristics Database\000003.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\Sync Data\LevelDB\000003.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\WebStorage\9\IndexedDB\indexeddb.leveldb\000003.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\System Profile\Local Storage\leveldb\000003.log
+C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Internet Explorer\CacheStorage\edb.log
+C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Windows\WebCache\V01.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Windows\WebCache\V0100019.log
+C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Windows\WebCache\V01tmp.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\NVIDIA Corporation\FrameViewSDK\nvrla.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\NVIDIA Corporation\GfeSDK\FortniteClient-Win64-Shipping_4128.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\NVIDIA Corporation\GfeSDK\FortniteClient-Win64-Shipping_7136.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\NVIDIA Corporation\GfeSDK\FortniteClient-Win64-Shipping_9204.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\NVIDIA Corporation\GfnRuntimeSdk\GfnRuntimeSdk.1.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\NVIDIA Corporation\GfnRuntimeSdk\GfnRuntimeSdk.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\NVIDIA Corporation\NVIDIA app\console.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\NVIDIA Corporation\NVIDIA app\CxNative_LocalUser.1.log
+C:\Users\Laith-Ahmed\AppData\Local\NVIDIA Corporation\NVIDIA app\CxNative_LocalUser.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\NVIDIA Corporation\NVIDIA app\CxNative_NVIDIA app.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\NVIDIA Corporation\NVIDIA app\debug.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\NVIDIA Corporation\NVIDIA app\selfupdate_admin.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\NVIDIA Corporation\NVIDIA app\CefCache\000003.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\NVIDIA Corporation\NVIDIA app\CefCache\IndexedDB\https_nvfile_0.indexeddb.leveldb\000007.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\NVIDIA Corporation\NVIDIA app\CefCache\Local Storage\leveldb\000003.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\NVIDIA Corporation\NVIDIA app\CefCache\Service Worker\Database\000003.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\NVIDIA Corporation\NVIDIA app\CefCache\Session Storage\000003.log
+C:\Users\Laith-Ahmed\AppData\Local\NVIDIA Corporation\NVIDIA app\NvBackend\backend.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\NVIDIA Corporation\NVIDIA app\UXD\Log.NVIDIA app.exe.log
+C:\Users\Laith-Ahmed\AppData\Local\NVIDIA Corporation\NVIDIA Overlay\console.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\NVIDIA Corporation\NVIDIA Overlay\CxNative_NVIDIA Overlay.1.log
+C:\Users\Laith-Ahmed\AppData\Local\NVIDIA Corporation\NVIDIA Overlay\CxNative_NVIDIA Overlay.log
+C:\Users\Laith-Ahmed\AppData\Local\NVIDIA Corporation\NVIDIA Overlay\debug.log
+C:\Users\Laith-Ahmed\AppData\Local\NVIDIA Corporation\NVIDIA Overlay\CefCache\000003.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\NVIDIA Corporation\NVIDIA Overlay\CefCache\IndexedDB\https_nvfile_0.indexeddb.leveldb\000008.log
+C:\Users\Laith-Ahmed\AppData\Local\NVIDIA Corporation\NVIDIA Overlay\CefCache\Local Storage\leveldb\000003.log
+C:\Users\Laith-Ahmed\AppData\Local\NVIDIA Corporation\NVIDIA Overlay\CefCache\Session Storage\000003.log
+C:\Users\Laith-Ahmed\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AppData\Indexed DB\edb.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AppData\Indexed DB\edb0000A.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AppData\Indexed DB\edbtmp.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Spotify\chrome_debug.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Spotify\Default\Extension State\000003.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Spotify\Default\GCM Store\Encryption\000003.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Spotify\Default\IndexedDB\https_xpui.app.spotify.com_0.indexeddb.leveldb\000028.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Spotify\Default\Local Storage\leveldb\000007.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Spotify\Default\Session Storage\000003.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Spotify\Default\shared_proto_db\000003.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Spotify\Default\shared_proto_db\metadata\000003.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Spotify\Default\Site Characteristics Database\000003.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Spotify\Default\Sync Data\LevelDB\000003.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Spotify\public.ldb\000008.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Spotify\Users\3137joaj65o75ye2xr7wgyhju3eq-user\primary.ldb\000011.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Steam\htmlcache\000003.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Steam\htmlcache\Local Storage\leveldb\000003.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Steam\htmlcache\Session Storage\000004.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Steam\htmlcache\shared_proto_db\000003.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Steam\htmlcache\shared_proto_db\metadata\000003.log
+C:\Users\Laith-Ahmed\AppData\Roaming\discord\Local Storage\leveldb\000155.log
+C:\Users\Laith-Ahmed\AppData\Roaming\discord\logs\discord_krisp.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Roaming\discord\logs\Discord_updater_rCURRENT.log
+C:\Users\Laith-Ahmed\AppData\Roaming\discord\logs\discord_utils.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Roaming\discord\logs\renderer_js.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Roaming\discord\module_data\crashlogs\2024_11_01T18_07_15_102Z-0-events.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Roaming\discord\module_data\discord_hook\hook.log
+C:\Users\Laith-Ahmed\AppData\Roaming\discord\Session Storage\000003.log
+C:\Users\Laith-Ahmed\AppData\Roaming\discord\shared_proto_db\000003.log
+C:\Users\Laith-Ahmed\AppData\Roaming\discord\shared_proto_db\metadata\000003.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Roaming\discord\WebStorage\2\IndexedDB\indexeddb.leveldb\000004.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Roaming\EasyAntiCheat\prod-fn\62a9473a2dca46b29ccf17577fcf42d7\anticheatlauncher.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Roaming\Hone\IndexedDB\https_www.overwolf.com_0.indexeddb.leveldb\000003.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Roaming\Hone\Local Storage\leveldb\000032.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Roaming\Hone\Partitions\__owepm__\Local Storage\leveldb\000003.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Roaming\Hone\Partitions\__owepm__\Session Storage\000003.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Roaming\Hone\Service Worker\Database\000003.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Roaming\Hone\Session Storage\000004.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Roaming\Hone\shared_proto_db\000003.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Roaming\Hone\shared_proto_db\metadata\000003.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Roaming\ow-electron\mgkabooemhaamambocobpeoeelpadcjhjgbcfhlc\logs\owpm.log
+Deleted file - C:\Users\Laith-Ahmed\AppData\Roaming\ow-electron\mgkabooemhaamambocobpeoeelpadcjhjgbcfhlc\logs\utility\utility.log
+Deleted file - C:\Windows\PFRO.log
+C:\Windows\debug\PASSWD.LOG
+Deleted file - C:\Windows\Logs\StorGroupPolicy.log
+Deleted file - C:\Windows\Logs\CBS\CBS.log
+Deleted file - C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.log
+Deleted file - C:\Windows\Panther\UnattendGC\setupact.log
+Deleted file - C:\Windows\Panther\UnattendGC\setuperr.log
+Deleted file - C:\Windows\ServiceProfiles\NetworkService\AppData\Local\Temp\MpCmdRun.log
+Deleted file - C:\Windows\ServiceProfiles\NetworkService\AppData\Local\Temp\MpSigStub.log
+Deleted file - C:\Windows\System32\config\systemprofile\AppData\Local\NVIDIA Corporation\NVIDIA app\CxNative_LocalUser.1.log
+C:\Windows\System32\config\systemprofile\AppData\Local\NVIDIA Corporation\NVIDIA app\CxNative_LocalUser.log
+Deleted file - C:\Windows\SysWOW64\config\systemprofile\AppData\Roaming\EasyAntiCheat\service.log
+C:\Windows\WinSxS\poqexec.log
+Deleted file - C:\ProgramData\Microsoft\Network\Downloader\edb.chk
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Internet Explorer\CacheStorage\edb.chk
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Windows\WebCache\V01.chk
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AppData\Indexed DB\edb.chk
+Deleted file - C:\Users\Laith-Ahmed.DESKTOP-0K48037\AppData\Local\Microsoft\Internet Explorer\CacheStorage\edb.chk
+Deleted file - C:\Users\Laith-Ahmed.DESKTOP-0K48037\AppData\Local\Microsoft\Windows\WebCache\V01.chk
+Deleted file - C:\Users\Laith-Ahmed.DESKTOP-0K48037\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AppData\Indexed DB\edb.chk
+Deleted file - C:\Windows\System32\config\systemprofile\AppData\Local\DataSharing\Storage\DSS.chk
+Deleted file - C:\Windows\System32\config\systemprofile\AppData\Local\Microsoft\Windows\WebCache\V01.chk
+Deleted file - C:\Windows\System32\sru\SRU.chk
+Deleted file - C:\Program Files (x86)\Google\GoogleUpdater\updater.log.old
+Deleted file - C:\Program Files (x86)\Steam\steam.exe.old
+Deleted file - C:\ProgramData\NVIDIA Corporation\ShadowPlay\CaptureCore.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\EpicGamesLauncher\Saved\webcache_4430\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\EpicGamesLauncher\Saved\webcache_4430\IndexedDB\https_launcher.store.epicgames.com_0.indexeddb.leveldb\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\EpicGamesLauncher\Saved\webcache_4430\Local Storage\leveldb\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\EpicGamesLauncher\Saved\webcache_4430\Service Worker\Database\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\EpicGamesLauncher\Saved\webcache_4430\Session Storage\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\AutofillStrikeDatabase\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\BudgetDatabase\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\ClientCertificates\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\commerce_subscription_db\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\discounts_db\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\Download Service\EntryDB\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\Extension Rules\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\Extension Scripts\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\Extension State\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\Feature Engagement Tracker\AvailabilityDB\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\Feature Engagement Tracker\EventDB\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\File System\Origins\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\GCM Store\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\GCM Store\Encryption\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\chrome-extension_cfhdojbkjhnklbpkdaibdccddilifddb_0.indexeddb.leveldb\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_fortnitetracker.com_0.indexeddb.leveldb\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.twitch.tv_0.indexeddb.leveldb\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\Local Extension Settings\cfhdojbkjhnklbpkdaibdccddilifddb\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\Local Extension Settings\ghbmnnjooekpmoecnnnilnnbdlolhkhi\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\Local Storage\leveldb\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\Managed Extension Settings\cfhdojbkjhnklbpkdaibdccddilifddb\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\optimization_guide_hint_cache_store\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\parcel_tracking_db\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\PersistentOriginTrials\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\Segmentation Platform\SegmentInfoDB\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\Segmentation Platform\SignalDB\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\Segmentation Platform\SignalStorageConfigDB\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\Service Worker\Database\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\Session Storage\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\shared_proto_db\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\shared_proto_db\metadata\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\Site Characteristics Database\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\Sync Data\LevelDB\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\VideoDecodeStats\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Default\WebStorage\5\IndexedDB\indexeddb.leveldb\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\AutofillStrikeDatabase\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\BudgetDatabase\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\ClientCertificates\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\commerce_subscription_db\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\discounts_db\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\Download Service\EntryDB\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\Extension State\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\Feature Engagement Tracker\AvailabilityDB\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\Feature Engagement Tracker\EventDB\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\GCM Store\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\GCM Store\Encryption\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\Local Extension Settings\ghbmnnjooekpmoecnnnilnnbdlolhkhi\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\Local Storage\leveldb\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\optimization_guide_hint_cache_store\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\parcel_tracking_db\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\PersistentOriginTrials\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\Platform Notifications\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\Segmentation Platform\SegmentInfoDB\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\Segmentation Platform\SignalDB\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\Segmentation Platform\SignalStorageConfigDB\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\Service Worker\Database\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\Session Storage\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\shared_proto_db\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\shared_proto_db\metadata\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\Site Characteristics Database\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\Sync Data\LevelDB\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\VideoDecodeStats\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\WebStorage\4\IndexedDB\indexeddb.leveldb\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\Profile 2\WebStorage\9\IndexedDB\indexeddb.leveldb\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Google\Chrome\User Data\System Profile\Local Storage\leveldb\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Edge\User Data\Default\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Edge\User Data\Default\Asset Store\assets.db\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Edge\User Data\Default\AutofillStrikeDatabase\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Edge\User Data\Default\BudgetDatabase\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Edge\User Data\Default\ClientCertificates\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Edge\User Data\Default\commerce_subscription_db\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Edge\User Data\Default\discounts_db\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Edge\User Data\Default\Download Service\EntryDB\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Edge\User Data\Default\EdgeCoupons\coupons_data.db\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Edge\User Data\Default\EdgePushStorageWithConnectTokenAndKey\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Edge\User Data\Default\EdgePushStorageWithWinRt\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Edge\User Data\Default\Extension Rules\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Edge\User Data\Default\Extension Scripts\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Edge\User Data\Default\Extension State\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Edge\User Data\Default\IndexedDB\https_ntp.msn.com_0.indexeddb.leveldb\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Edge\User Data\Default\Local Storage\leveldb\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Edge\User Data\Default\optimization_guide_hint_cache_store\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Edge\User Data\Default\parcel_tracking_db\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Edge\User Data\Default\PersistentOriginTrials\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Edge\User Data\Default\Platform Notifications\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Edge\User Data\Default\Segmentation Platform\SegmentInfoDB\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Edge\User Data\Default\Segmentation Platform\SignalDB\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Edge\User Data\Default\Segmentation Platform\SignalStorageConfigDB\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\Database\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Edge\User Data\Default\Session Storage\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Edge\User Data\Default\shared_proto_db\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Edge\User Data\Default\shared_proto_db\metadata\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Edge\User Data\Default\Site Characteristics Database\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Edge\User Data\Default\Sync Data\LevelDB\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\NVIDIA Corporation\NVIDIA app\CefCache\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\NVIDIA Corporation\NVIDIA app\CefCache\IndexedDB\https_nvfile_0.indexeddb.leveldb\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\NVIDIA Corporation\NVIDIA app\CefCache\Local Storage\leveldb\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\NVIDIA Corporation\NVIDIA app\CefCache\Service Worker\Database\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\NVIDIA Corporation\NVIDIA app\CefCache\Session Storage\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\NVIDIA Corporation\NVIDIA Overlay\CefCache\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\NVIDIA Corporation\NVIDIA Overlay\CefCache\IndexedDB\https_nvfile_0.indexeddb.leveldb\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\NVIDIA Corporation\NVIDIA Overlay\CefCache\Local Storage\leveldb\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\NVIDIA Corporation\NVIDIA Overlay\CefCache\Session Storage\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Spotify\Default\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Spotify\Default\AutofillStrikeDatabase\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Spotify\Default\BudgetDatabase\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Spotify\Default\ClientCertificates\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Spotify\Default\commerce_subscription_db\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Spotify\Default\discounts_db\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Spotify\Default\Download Service\EntryDB\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Spotify\Default\Extension State\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Spotify\Default\Feature Engagement Tracker\AvailabilityDB\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Spotify\Default\Feature Engagement Tracker\EventDB\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Spotify\Default\GCM Store\Encryption\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Spotify\Default\IndexedDB\https_xpui.app.spotify.com_0.indexeddb.leveldb\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Spotify\Default\Local Storage\leveldb\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Spotify\Default\optimization_guide_hint_cache_store\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Spotify\Default\parcel_tracking_db\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Spotify\Default\PersistentOriginTrials\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Spotify\Default\Segmentation Platform\SegmentInfoDB\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Spotify\Default\Segmentation Platform\SignalDB\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Spotify\Default\Segmentation Platform\SignalStorageConfigDB\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Spotify\Default\Session Storage\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Spotify\Default\shared_proto_db\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Spotify\Default\shared_proto_db\metadata\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Spotify\Default\Sync Data\LevelDB\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Spotify\public.ldb\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Spotify\Users\3137joaj65o75ye2xr7wgyhju3eq-user\primary.ldb\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Steam\htmlcache\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Steam\htmlcache\Local Storage\leveldb\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Steam\htmlcache\Session Storage\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Steam\htmlcache\shared_proto_db\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Steam\htmlcache\shared_proto_db\metadata\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Steam\htmlcache\VideoDecodeStats\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Roaming\discord\Local Storage\leveldb\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Roaming\discord\Session Storage\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Roaming\discord\shared_proto_db\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Roaming\discord\shared_proto_db\metadata\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Roaming\discord\VideoDecodeStats\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Roaming\discord\WebStorage\2\IndexedDB\indexeddb.leveldb\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Roaming\Hone\IndexedDB\https_www.overwolf.com_0.indexeddb.leveldb\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Roaming\Hone\Local Storage\leveldb\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Roaming\Hone\Partitions\__owepm__\Local Storage\leveldb\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Roaming\Hone\Partitions\__owepm__\Session Storage\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Roaming\Hone\Service Worker\Database\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Roaming\Hone\Session Storage\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Roaming\Hone\shared_proto_db\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Roaming\Hone\shared_proto_db\metadata\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Roaming\Hone\VideoDecodeStats\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Roaming\Hone\WebStorage\2\IndexedDB\indexeddb.leveldb\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Roaming\steelseries-gg-client\Local Storage\leveldb\LOG.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Roaming\steelseries-gg-client\Session Storage\LOG.old
+Deleted file - C:\Windows\security\logs\scecomp.old
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Windows\Explorer\thumbcache_1280.db
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Windows\Explorer\thumbcache_16.db
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Windows\Explorer\thumbcache_1920.db
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Windows\Explorer\thumbcache_2560.db
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Windows\Explorer\thumbcache_32.db
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Windows\Explorer\thumbcache_48.db
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Windows\Explorer\thumbcache_768.db
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Windows\Explorer\thumbcache_96.db
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Windows\Explorer\thumbcache_custom_stream.db
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Windows\Explorer\thumbcache_exif.db
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Windows\Explorer\thumbcache_sr.db
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Windows\Explorer\thumbcache_wide.db
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Windows\Explorer\thumbcache_wide_alternate.db
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Windows\Explorer\iconcache_1280.db
+C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Windows\Explorer\iconcache_16.db
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Windows\Explorer\iconcache_1920.db
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Windows\Explorer\iconcache_256.db
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Windows\Explorer\iconcache_2560.db
+C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Windows\Explorer\iconcache_32.db
+C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Windows\Explorer\iconcache_48.db
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Windows\Explorer\iconcache_768.db
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Windows\Explorer\iconcache_96.db
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Windows\Explorer\iconcache_custom_stream.db
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Windows\Explorer\iconcache_exif.db
+C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Windows\Explorer\iconcache_idx.db
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Windows\Explorer\iconcache_sr.db
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Windows\Explorer\iconcache_wide.db
+Deleted file - C:\Users\Laith-Ahmed\AppData\Local\Microsoft\Windows\Explorer\iconcache_wide_alternate.db
